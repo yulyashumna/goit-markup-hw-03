@@ -178,6 +178,7 @@ padding-bottom: 32px;
     line-height: 1.36;
     font-size: 44px;
     letter-spacing: 0.06em;
+    text-transform: uppercase;
     color: var(--white-color);   
 }
 
@@ -302,7 +303,7 @@ background-color: var(--milk-color);
     letter-spacing: 0.03em;
     color: var(--black-color); 
 
-    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 .team-text {
@@ -310,6 +311,8 @@ background-color: var(--milk-color);
     line-height: 1.18;
     text-align: center;
     color: var(--grey-color);
+
+    margin-bottom: 30px;
 }
 
 .team-list {
@@ -327,7 +330,7 @@ background-color: var(--milk-color);
 }
 
 .image-team {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 /*-----footer-----*/
